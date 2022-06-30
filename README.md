@@ -4,4 +4,4 @@
 
 > _Hazırlamış olduğum çalışmaya aşağıdaki linkten ulaşabilirsiniz._
 
--   Website: [https://fitness-app.netlify.app/](https://fitness-app.netlify.app/)
+-   Website: [https://fitness-application.netlify.app/](https://fitness-application.netlify.app/)
